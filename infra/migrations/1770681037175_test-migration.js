@@ -1,7 +1,8 @@
-module.exports.shorthands = undefined;
-module.exports.up = function (_pgm) {
-  // UP
-};
-module.exports.down = function (_pgm) {
-  // DOWN
-};
+/* eslint-disable no-unused-vars */
+/* eslint-disable camelcase */
+
+exports.shorthands = undefined;
+
+exports.up = (pgm) => {};
+
+exports.down = (pgm) => {};
